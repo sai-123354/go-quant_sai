@@ -1,0 +1,6 @@
+#pragma once
+#include <string>
+
+const std::string ACCESS_TOKEN = 
+"1745158501025.1dgC__mC.TgaOyndYbCBzam30CK5LHbrFPTKnx0joZ74pHlrgLmGs5zGZXBTuGQoIdtQ2vqOO18ZiSEbFOMOU6KnAThqAVhyLSF328PdlDRM48QEq2-uTNmeW_ufg-fGnvX2eztnZrJQxOqt-mRR1--4EfjppgpttiPJ-g4g_vKvjka4278ORQPddCZINqDtMs5ON8uNgvXMMMQMekFTAScxr2HSWZiM-HfxQuooKeSDLtg-YBQpIS-Yn0rlYalBsgFiTW5QcNCK04IqkP6-9BmpfYpBq4kL9KA";
+
